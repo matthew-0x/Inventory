@@ -1,5 +1,5 @@
 {
-  "name": "invenco_checkout",
+  "name": "checkout",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
